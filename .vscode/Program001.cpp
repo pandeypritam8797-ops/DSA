@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello" "\n" "World"<<endl;
+    int age=25;
+    cout<<sizeof(age)<<endl;
     return 0;
 }
